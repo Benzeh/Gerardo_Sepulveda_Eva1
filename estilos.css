@@ -155,3 +155,41 @@ button a {
     padding: 1px;
     padding-left: 5px;
 }
+
+
+.contenedor_riesgos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+.caja_riesgo {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.icono {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.contenedor_riesgos h2 {
+        color: #333;
+    }
+
+.H1-RIESGOS {
+    border: 1px solid #eeecec;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+    background-color: #1a1515;
+    box-shadow: 0 2px 5px rgba(206, 201, 201, 0.1);
+    text-align: center;
+    margin: auto;
+    
+}
